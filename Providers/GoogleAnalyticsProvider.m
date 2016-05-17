@@ -3,7 +3,6 @@
 #import "GAI.h"
 #import "GAIFields.h"
 #import "GAIDictionaryBuilder.h"
-#import "NSDictionary+GoogleAnalytics.h"
 
 @interface GoogleAnalyticsProvider ()
 
