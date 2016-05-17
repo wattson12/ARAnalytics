@@ -16,7 +16,6 @@
 
 #ifdef AR_GOOGLEANALYTICS_EXISTS
 #import <Google/Analytics.h>
-#import "ARAnalytics+GoogleAnalytics.h"
 #endif
 
 #ifdef AR_KISSMETRICS_EXISTS
