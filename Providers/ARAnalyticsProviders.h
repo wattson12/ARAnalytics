@@ -15,7 +15,7 @@
 #endif
 
 #ifdef AR_GOOGLEANALYTICS_EXISTS
-#import "GoogleAnalyticsProvider.h"
+#import <Google/Analytics.h>
 #import "ARAnalytics+GoogleAnalytics.h"
 #endif
 
